@@ -16,7 +16,7 @@ npm run dev
 ```
 
 Open `http://localhost:3000` (or the port printed in the terminal).
-
+ 
 ## Tech Stack
 - Next.js 15 (App Router, RSC)
 - React 19
