@@ -2,7 +2,7 @@
         
 Premium 2026-ready single-page property management dashboard built with Next.js (App Router + React Server Components) and Tailwind CSS v4. Includes 3D property visualizations, dynamic lighting, AI insights, real-time placeholders, and a glassmorphic pastel-futuristic UI.  
       
-## Features  
+## Features   
 - Glassmorphism + pastel futuristic gradients, animated noise, parallax background      
 - 3D property cards and city overview (React Three Fiber)   
 - AI insights banner, live notifications, sortable transactions       
