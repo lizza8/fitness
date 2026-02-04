@@ -8,7 +8,7 @@ Premium 2026-ready single-page property management dashboard built with Next.js 
 - AI insights banner, live notifications, sortable transactions      
 - Maintenance scheduler, tenant profiles modal, maps widget  
 - Light/dark theme toggle + high-contrast mode      
-
+ 
 ## Getting Started 
 ```bash
 npm install 
