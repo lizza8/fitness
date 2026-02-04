@@ -12,7 +12,7 @@ Premium 2026-ready single-page property management dashboard built with Next.js 
 ## Getting Started 
 ```bash
 npm install 
-npm run dev
+npm run dev 
 ```
 
 Open `http://localhost:3000` (or the port printed in the terminal).
