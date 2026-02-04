@@ -7,7 +7,7 @@ Premium 2026-ready single-page property management dashboard built with Next.js 
 - 3D property cards and city overview (React Three Fiber)  
 - AI insights banner, live notifications, sortable transactions    
 - Maintenance scheduler, tenant profiles modal, maps widget
-- Light/dark theme toggle + high-contrast mode   
+- Light/dark theme toggle + high-contrast mode    
 
 ## Getting Started 
 ```bash
